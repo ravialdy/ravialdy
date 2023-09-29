@@ -12,7 +12,7 @@
   * Data Analytics
   * Mathematics and Statistics
   * Machine Learning (Scikit Learn)
-  * Deep Learning (Tensorflow -Time Series, NLP, Speech Recognition, etc-)
+  * Deep Learning (PyTorch : Computer Vision, Natural Language Processing (NLP))
 
 
 <!---
