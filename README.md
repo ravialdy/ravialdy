@@ -9,10 +9,19 @@
 
 #### I am a person who is very passionate about :
 
+  * AI Research and Engineering
   * Data Analytics
   * Mathematics and Statistics
   * Machine Learning (Scikit Learn)
   * Deep Learning (PyTorch : Computer Vision, Natural Language Processing (NLP))
+
+#### My Skills :
+
+  * Python, JavaScript, MATLAB, SQL, R (Programming Language)
+  * Pytorch, Tensorflow, JAX (Deep Learning Frameworks)
+  * OpenCV, Sklearn, Tesseract, Darknet, LabelImg, Flax (Additional Deep Learning Tools)
+  * Tensorboard, Weights and Biases (Deep Learning Monitoring Tools)
+  * Docker (Deep Learning Deployment)
 
 
 <!---
